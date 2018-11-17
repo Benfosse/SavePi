@@ -1,0 +1,42 @@
+Gladys version : 3.7.4
+Bootstrap is taking unusually long to execute its callback (2000 milliseconds).
+Perhaps you forgot to call it?  The callback is the first argument of the function, `cb`.
+Gladys brain loaded with success !
+Scheduled sunrise to 2018-1-30 08:25:18.
+Scheduled sunset to 2018-1-30 17:45:31.
+
+               .-..-.
+
+   Sails              <|    .-..-.
+   v0.12.14            |\
+                      /|.\
+                     / || \
+                   ,'  |'  \
+                .-'.-==|/_--'
+                `--'-------' 
+   __---___--___---___--___---___--___
+ ____---___--___---___--___---___--___-__
+
+Server lifted in `/home/pi/gladys`
+To see your app, visit http://localhost:8080
+To shut down Sails, press <CTRL> + C at any time.
+
+
+Gladys is up to date !
+New User connected : Benjamin
+Event : create : new Event with code : sunset
+Scenario : Trigger : New event : sunset
+Scenario : Trigger : Found 0 launchers with code sunset.
+Socket disconnected, but session could not be loaded to pass to configured disconnect handler: `sails.config.sockets.afterDisconnect()`.  Will pass a fake, empty session as argument to lifecycle callback.  Details:
+ Error: Session could not be loaded
+    at _createError (/home/pi/gladys/node_modules/sails/lib/hooks/session/index.js:31:19)
+    at Immediate._onImmediate (/home/pi/gladys/node_modules/sails/lib/hooks/session/index.js:34:11)
+    at runCallback (timers.js:757:11)
+    at tryOnImmediate (timers.js:717:5)
+    at processImmediate [as _immediateCallback] (timers.js:697:5)
+Scheduled sunrise to 2018-1-31 08:24:00.
+Scheduled sunset to 2018-1-31 17:47:09.
+Event : create : new Event with code : sunrise
+Scenario : Trigger : New event : sunrise
+Scenario : Trigger : Found 0 launchers with code sunrise.
+New User connected : Benjamin

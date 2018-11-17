@@ -1,0 +1,49 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'bcrypt', '--save' ]
+2 info using npm@5.6.0
+3 info using node@v9.4.0
+4 verbose npm-session 5717d155fdb73bb8
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 200 https://registry.npmjs.org/bcrypt 463ms
+8 silly pacote tag manifest for bcrypt@latest fetched in 583ms
+9 silly install loadIdealTree
+10 silly install cloneCurrentTreeToIdealTree
+11 silly install loadShrinkwrap
+12 silly install loadAllDepsIntoIdealTree
+13 silly saveTree bcrypt@1.0.3
+14 verbose stack Error: Refusing to install package with name "bcrypt" under a package
+14 verbose stack also called "bcrypt". Did you name your project the same
+14 verbose stack as the dependency you're installing?
+14 verbose stack
+14 verbose stack For more information, see:
+14 verbose stack     <https://docs.npmjs.com/cli/install#limitations-of-npms-install-algorithm>
+14 verbose stack     at checkSelf (/usr/lib/node_modules/npm/lib/install/validate-args.js:64:14)
+14 verbose stack     at Array.<anonymous> (/usr/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+14 verbose stack     at LOOP (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+14 verbose stack     at /usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+14 verbose stack     at hasMinimumFields (/usr/lib/node_modules/npm/lib/install/validate-args.js:30:12)
+14 verbose stack     at Array.<anonymous> (/usr/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+14 verbose stack     at LOOP (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+14 verbose stack     at chain (/usr/lib/node_modules/npm/node_modules/slide/lib/chain.js:20:5)
+14 verbose stack     at /usr/lib/node_modules/npm/lib/install/validate-args.js:16:5
+14 verbose stack     at /usr/lib/node_modules/npm/node_modules/slide/lib/async-map.js:52:35
+14 verbose stack     at Array.forEach (<anonymous>)
+14 verbose stack     at /usr/lib/node_modules/npm/node_modules/slide/lib/async-map.js:52:11
+14 verbose stack     at Array.forEach (<anonymous>)
+14 verbose stack     at asyncMap (/usr/lib/node_modules/npm/node_modules/slide/lib/async-map.js:51:8)
+14 verbose stack     at module.exports (/usr/lib/node_modules/npm/lib/install/validate-args.js:15:3)
+14 verbose stack     at Array.<anonymous> (/usr/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+15 verbose cwd /usr/lib/node_modules/gladys/node_modules/bcrypt/lib
+16 verbose Linux 4.9.35-v7+
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "bcrypt" "--save"
+18 verbose node v9.4.0
+19 verbose npm  v5.6.0
+20 error code ENOSELF
+21 error Refusing to install package with name "bcrypt" under a package
+21 error also called "bcrypt". Did you name your project the same
+21 error as the dependency you're installing?
+21 error
+21 error For more information, see:
+21 error     <https://docs.npmjs.com/cli/install#limitations-of-npms-install-algorithm>
+22 verbose exit [ 1, true ]

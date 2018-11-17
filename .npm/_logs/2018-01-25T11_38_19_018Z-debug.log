@@ -1,0 +1,98 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', '-g', 'grunt-cli' ]
+2 info using npm@5.6.0
+3 info using node@v9.4.0
+4 verbose npm-session 1c9c5b0adecb4bfc
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 http fetch GET 200 https://registry.npmjs.org/grunt-cli 510ms
+8 silly pacote tag manifest for grunt-cli@latest fetched in 684ms
+9 silly install loadIdealTree
+10 silly install cloneCurrentTreeToIdealTree
+11 silly install loadShrinkwrap
+12 silly install loadAllDepsIntoIdealTree
+13 silly resolveWithNewModule grunt-cli@1.2.0 checking installable status
+14 http fetch GET 200 https://registry.npmjs.org/findup-sync 120ms
+15 silly pacote range manifest for findup-sync@~0.3.0 fetched in 139ms
+16 silly resolveWithNewModule findup-sync@0.3.0 checking installable status
+17 http fetch GET 200 https://registry.npmjs.org/grunt-known-options 226ms
+18 http fetch GET 200 https://registry.npmjs.org/nopt 230ms
+19 http fetch GET 200 https://registry.npmjs.org/resolve 236ms
+20 silly pacote range manifest for grunt-known-options@~1.1.0 fetched in 262ms
+21 silly resolveWithNewModule grunt-known-options@1.1.0 checking installable status
+22 silly pacote range manifest for nopt@~3.0.6 fetched in 269ms
+23 silly resolveWithNewModule nopt@3.0.6 checking installable status
+24 silly pacote range manifest for resolve@~1.1.0 fetched in 268ms
+25 silly resolveWithNewModule resolve@1.1.7 checking installable status
+26 http fetch GET 200 https://registry.npmjs.org/glob 88ms
+27 silly pacote range manifest for glob@~5.0.0 fetched in 111ms
+28 silly resolveWithNewModule glob@5.0.15 checking installable status
+29 http fetch GET 200 https://registry.npmjs.org/inflight 133ms
+30 http fetch GET 200 https://registry.npmjs.org/inherits 142ms
+31 http fetch GET 200 https://registry.npmjs.org/once 140ms
+32 http fetch GET 200 https://registry.npmjs.org/minimatch 152ms
+33 silly pacote range manifest for inflight@^1.0.4 fetched in 194ms
+34 silly resolveWithNewModule inflight@1.0.6 checking installable status
+35 silly pacote range manifest for inherits@2 fetched in 196ms
+36 silly resolveWithNewModule inherits@2.0.3 checking installable status
+37 silly pacote range manifest for once@^1.3.0 fetched in 194ms
+38 silly resolveWithNewModule once@1.4.0 checking installable status
+39 silly pacote range manifest for minimatch@2 || 3 fetched in 202ms
+40 silly resolveWithNewModule minimatch@3.0.4 checking installable status
+41 http fetch GET 200 https://registry.npmjs.org/path-is-absolute 204ms
+42 silly pacote range manifest for path-is-absolute@^1.0.0 fetched in 219ms
+43 silly resolveWithNewModule path-is-absolute@1.0.1 checking installable status
+44 http fetch GET 200 https://registry.npmjs.org/wrappy 51ms
+45 silly pacote range manifest for wrappy@1 fetched in 61ms
+46 silly resolveWithNewModule wrappy@1.0.2 checking installable status
+47 http fetch GET 200 https://registry.npmjs.org/brace-expansion 57ms
+48 silly pacote range manifest for brace-expansion@^1.1.7 fetched in 69ms
+49 silly resolveWithNewModule brace-expansion@1.1.8 checking installable status
+50 http fetch GET 200 https://registry.npmjs.org/concat-map 75ms
+51 http fetch GET 200 https://registry.npmjs.org/balanced-match 84ms
+52 silly pacote version manifest for concat-map@0.0.1 fetched in 97ms
+53 silly resolveWithNewModule concat-map@0.0.1 checking installable status
+54 silly pacote range manifest for balanced-match@^1.0.0 fetched in 103ms
+55 silly resolveWithNewModule balanced-match@1.0.0 checking installable status
+56 http fetch GET 200 https://registry.npmjs.org/abbrev 52ms
+57 silly pacote range manifest for abbrev@1 fetched in 66ms
+58 silly resolveWithNewModule abbrev@1.1.1 checking installable status
+59 silly currentTree lib
+60 silly idealTree lib
+60 silly idealTree └─┬ grunt-cli@1.2.0
+60 silly idealTree   ├── abbrev@1.1.1
+60 silly idealTree   ├── balanced-match@1.0.0
+60 silly idealTree   ├── brace-expansion@1.1.8
+60 silly idealTree   ├── concat-map@0.0.1
+60 silly idealTree   ├── findup-sync@0.3.0
+60 silly idealTree   ├── glob@5.0.15
+60 silly idealTree   ├── grunt-known-options@1.1.0
+60 silly idealTree   ├── inflight@1.0.6
+60 silly idealTree   ├── inherits@2.0.3
+60 silly idealTree   ├── minimatch@3.0.4
+60 silly idealTree   ├── nopt@3.0.6
+60 silly idealTree   ├── once@1.4.0
+60 silly idealTree   ├── path-is-absolute@1.0.1
+60 silly idealTree   ├── resolve@1.1.7
+60 silly idealTree   └── wrappy@1.0.2
+61 silly install generateActionsToTake
+62 warn checkPermissions Missing write access to /usr/lib/node_modules
+63 verbose stack Error: EACCES: permission denied, access '/usr/lib/node_modules'
+64 verbose cwd /home/pi/gladys
+65 verbose Linux 4.9.35-v7+
+66 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "-g" "grunt-cli"
+67 verbose node v9.4.0
+68 verbose npm  v5.6.0
+69 error path /usr/lib/node_modules
+70 error code EACCES
+71 error errno -13
+72 error syscall access
+73 error Error: EACCES: permission denied, access '/usr/lib/node_modules'
+73 error  { Error: EACCES: permission denied, access '/usr/lib/node_modules'
+73 error   stack: 'Error: EACCES: permission denied, access \'/usr/lib/node_modules\'',
+73 error   errno: -13,
+73 error   code: 'EACCES',
+73 error   syscall: 'access',
+73 error   path: '/usr/lib/node_modules' }
+74 error Please try running this command again as root/Administrator.
+75 verbose exit [ -13, true ]

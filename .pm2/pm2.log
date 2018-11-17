@@ -1,0 +1,367 @@
+2018-01-29 21:20:38: ===============================================================================
+2018-01-29 21:20:38: --- New PM2 Daemon started ----------------------------------------------------
+2018-01-29 21:20:38: Time                 : Mon Jan 29 2018 21:20:38 GMT+0100 (CET)
+2018-01-29 21:20:38: PM2 version          : 2.9.3
+2018-01-29 21:20:38: Node.js version      : 9.4.0
+2018-01-29 21:20:38: Current arch         : arm
+2018-01-29 21:20:38: PM2 home             : /home/pi/.pm2
+2018-01-29 21:20:38: PM2 PID file         : /home/pi/.pm2/pm2.pid
+2018-01-29 21:20:38: RPC socket file      : /home/pi/.pm2/rpc.sock
+2018-01-29 21:20:38: BUS socket file      : /home/pi/.pm2/pub.sock
+2018-01-29 21:20:38: Application log path : /home/pi/.pm2/logs
+2018-01-29 21:20:38: Process dump file    : /home/pi/.pm2/dump.pm2
+2018-01-29 21:20:38: Concurrent actions   : 2
+2018-01-29 21:20:38: SIGTERM timeout      : 1600
+2018-01-29 21:20:38: ===============================================================================
+2018-01-29 21:20:39: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:20:39: App name:gladys id:0 online
+2018-01-29 21:20:52: App [gladys] with id [0] and pid [10569], exited with code [1] via signal [SIGINT]
+2018-01-29 21:20:52: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:20:52: App name:gladys id:0 online
+2018-01-29 21:21:07: App [gladys] with id [0] and pid [10620], exited with code [1] via signal [SIGINT]
+2018-01-29 21:21:07: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:21:07: App name:gladys id:0 online
+2018-01-29 21:21:22: App [gladys] with id [0] and pid [10658], exited with code [1] via signal [SIGINT]
+2018-01-29 21:21:22: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:21:22: App name:gladys id:0 online
+2018-01-29 21:21:37: App [gladys] with id [0] and pid [10714], exited with code [1] via signal [SIGINT]
+2018-01-29 21:21:37: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:21:37: App name:gladys id:0 online
+2018-01-29 21:21:51: App [gladys] with id [0] and pid [10753], exited with code [1] via signal [SIGINT]
+2018-01-29 21:21:51: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:21:51: App name:gladys id:0 online
+2018-01-29 21:22:07: App [gladys] with id [0] and pid [10809], exited with code [1] via signal [SIGINT]
+2018-01-29 21:22:07: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:22:07: App name:gladys id:0 online
+2018-01-29 21:22:22: App [gladys] with id [0] and pid [10847], exited with code [1] via signal [SIGINT]
+2018-01-29 21:22:22: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:22:22: App name:gladys id:0 online
+2018-01-29 21:22:37: App [gladys] with id [0] and pid [10903], exited with code [1] via signal [SIGINT]
+2018-01-29 21:22:37: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:22:37: App name:gladys id:0 online
+2018-01-29 21:22:51: App [gladys] with id [0] and pid [10941], exited with code [1] via signal [SIGINT]
+2018-01-29 21:22:51: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:22:51: App name:gladys id:0 online
+2018-01-29 21:23:06: App [gladys] with id [0] and pid [10997], exited with code [1] via signal [SIGINT]
+2018-01-29 21:23:06: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:23:06: App name:gladys id:0 online
+2018-01-29 21:23:21: App [gladys] with id [0] and pid [11035], exited with code [1] via signal [SIGINT]
+2018-01-29 21:23:21: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:23:21: App name:gladys id:0 online
+2018-01-29 21:23:36: App [gladys] with id [0] and pid [11092], exited with code [1] via signal [SIGINT]
+2018-01-29 21:23:36: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:23:36: App name:gladys id:0 online
+2018-01-29 21:23:50: App [gladys] with id [0] and pid [11130], exited with code [1] via signal [SIGINT]
+2018-01-29 21:23:50: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:23:50: App name:gladys id:0 online
+2018-01-29 21:24:05: App [gladys] with id [0] and pid [11203], exited with code [1] via signal [SIGINT]
+2018-01-29 21:24:05: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:24:05: App name:gladys id:0 online
+2018-01-29 21:24:20: App [gladys] with id [0] and pid [11241], exited with code [1] via signal [SIGINT]
+2018-01-29 21:24:20: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:24:20: App name:gladys id:0 online
+2018-01-29 21:24:35: App [gladys] with id [0] and pid [11297], exited with code [1] via signal [SIGINT]
+2018-01-29 21:24:35: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:24:35: App name:gladys id:0 online
+2018-01-29 21:24:49: App [gladys] with id [0] and pid [11335], exited with code [1] via signal [SIGINT]
+2018-01-29 21:24:49: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:24:49: App name:gladys id:0 online
+2018-01-29 21:25:04: App [gladys] with id [0] and pid [11391], exited with code [1] via signal [SIGINT]
+2018-01-29 21:25:04: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:25:04: App name:gladys id:0 online
+2018-01-29 21:25:19: App [gladys] with id [0] and pid [11429], exited with code [1] via signal [SIGINT]
+2018-01-29 21:25:19: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:25:19: App name:gladys id:0 online
+2018-01-29 21:25:34: App [gladys] with id [0] and pid [11485], exited with code [1] via signal [SIGINT]
+2018-01-29 21:25:34: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:25:34: App name:gladys id:0 online
+2018-01-29 21:25:49: App [gladys] with id [0] and pid [11523], exited with code [1] via signal [SIGINT]
+2018-01-29 21:25:49: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:25:49: App name:gladys id:0 online
+2018-01-29 21:26:04: App [gladys] with id [0] and pid [11579], exited with code [1] via signal [SIGINT]
+2018-01-29 21:26:04: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:26:04: App name:gladys id:0 online
+2018-01-29 21:26:19: App [gladys] with id [0] and pid [11617], exited with code [1] via signal [SIGINT]
+2018-01-29 21:26:19: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:26:19: App name:gladys id:0 online
+2018-01-29 21:26:34: App [gladys] with id [0] and pid [11673], exited with code [1] via signal [SIGINT]
+2018-01-29 21:26:34: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:26:34: App name:gladys id:0 online
+2018-01-29 21:26:49: App [gladys] with id [0] and pid [11711], exited with code [1] via signal [SIGINT]
+2018-01-29 21:26:49: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:26:49: App name:gladys id:0 online
+2018-01-29 21:27:03: App [gladys] with id [0] and pid [11768], exited with code [1] via signal [SIGINT]
+2018-01-29 21:27:03: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:27:03: App name:gladys id:0 online
+2018-01-29 21:27:18: App [gladys] with id [0] and pid [11806], exited with code [1] via signal [SIGINT]
+2018-01-29 21:27:18: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:27:18: App name:gladys id:0 online
+2018-01-29 21:27:33: App [gladys] with id [0] and pid [11871], exited with code [1] via signal [SIGINT]
+2018-01-29 21:27:33: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:27:33: App name:gladys id:0 online
+2018-01-29 21:27:48: App [gladys] with id [0] and pid [11914], exited with code [1] via signal [SIGINT]
+2018-01-29 21:27:48: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:27:48: App name:gladys id:0 online
+2018-01-29 21:28:03: App [gladys] with id [0] and pid [11970], exited with code [1] via signal [SIGINT]
+2018-01-29 21:28:03: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:28:03: App name:gladys id:0 online
+2018-01-29 21:28:17: App [gladys] with id [0] and pid [12008], exited with code [1] via signal [SIGINT]
+2018-01-29 21:28:17: Starting execution sequence in -fork mode- for app name:gladys id:0
+2018-01-29 21:28:17: App name:gladys id:0 online
+2018-01-29 21:28:28: pm2 has been killed by signal, dumping process list before exit...
+2018-01-29 21:28:28: Deleting process 0
+2018-01-29 21:28:28: Stopping app:gladys id:0
+2018-01-29 21:28:28: App [gladys] with id [0] and pid [12067], exited with code [0] via signal [SIGHUP]
+2018-01-29 21:28:28: pid=12067 msg=process killed
+2018-01-29 21:28:28: [PM2] Exited peacefully
+2018-01-30 15:22:39: ===============================================================================
+2018-01-30 15:22:39: --- New PM2 Daemon started ----------------------------------------------------
+2018-01-30 15:22:39: Time                 : Tue Jan 30 2018 15:22:39 GMT+0100 (CET)
+2018-01-30 15:22:39: PM2 version          : 2.9.3
+2018-01-30 15:22:39: Node.js version      : 9.4.0
+2018-01-30 15:22:39: Current arch         : arm
+2018-01-30 15:22:39: PM2 home             : /home/pi/.pm2
+2018-01-30 15:22:39: PM2 PID file         : /home/pi/.pm2/pm2.pid
+2018-01-30 15:22:39: RPC socket file      : /home/pi/.pm2/rpc.sock
+2018-01-30 15:22:39: BUS socket file      : /home/pi/.pm2/pub.sock
+2018-01-30 15:22:39: Application log path : /home/pi/.pm2/logs
+2018-01-30 15:22:39: Process dump file    : /home/pi/.pm2/dump.pm2
+2018-01-30 15:22:39: Concurrent actions   : 2
+2018-01-30 15:22:39: SIGTERM timeout      : 1600
+2018-01-30 15:22:39: ===============================================================================
+2018-01-30 15:22:39: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:39: App name:gladys-voice id:0 online
+2018-01-30 15:22:40: App [gladys-voice] with id [0] and pid [13286], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:40: App name:gladys-voice id:0 online
+2018-01-30 15:22:40: App [gladys-voice] with id [0] and pid [13317], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:40: App name:gladys-voice id:0 online
+2018-01-30 15:22:41: App [gladys-voice] with id [0] and pid [13343], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:41: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:41: App name:gladys-voice id:0 online
+2018-01-30 15:22:41: App [gladys-voice] with id [0] and pid [13369], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:41: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:41: App name:gladys-voice id:0 online
+2018-01-30 15:22:42: App [gladys-voice] with id [0] and pid [13395], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:42: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:42: App name:gladys-voice id:0 online
+2018-01-30 15:22:43: App [gladys-voice] with id [0] and pid [13421], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:43: App name:gladys-voice id:0 online
+2018-01-30 15:22:43: App [gladys-voice] with id [0] and pid [13447], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:43: App name:gladys-voice id:0 online
+2018-01-30 15:22:44: App [gladys-voice] with id [0] and pid [13473], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:44: App name:gladys-voice id:0 online
+2018-01-30 15:22:44: App [gladys-voice] with id [0] and pid [13499], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:44: App name:gladys-voice id:0 online
+2018-01-30 15:22:45: App [gladys-voice] with id [0] and pid [13525], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:45: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:45: App name:gladys-voice id:0 online
+2018-01-30 15:22:45: App [gladys-voice] with id [0] and pid [13551], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:45: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:45: App name:gladys-voice id:0 online
+2018-01-30 15:22:46: App [gladys-voice] with id [0] and pid [13577], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:46: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:46: App name:gladys-voice id:0 online
+2018-01-30 15:22:47: App [gladys-voice] with id [0] and pid [13603], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:47: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:47: App name:gladys-voice id:0 online
+2018-01-30 15:22:47: App [gladys-voice] with id [0] and pid [13629], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:47: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:47: App name:gladys-voice id:0 online
+2018-01-30 15:22:48: App [gladys-voice] with id [0] and pid [13655], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:48: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 15:22:48: App name:gladys-voice id:0 online
+2018-01-30 15:22:48: App [gladys-voice] with id [0] and pid [13681], exited with code [1] via signal [SIGINT]
+2018-01-30 15:22:48: Script /home/pi/gladys/gladys-voice/app.js had too many unstable restarts (16). Stopped. "errored"
+2018-01-30 16:07:27: Starting execution sequence in -fork mode- for app name:app id:1
+2018-01-30 16:07:27: App name:app id:1 online
+2018-01-30 16:07:55: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:55: App name:app id:2 online
+2018-01-30 16:07:55: App [app] with id [2] and pid [15463], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:55: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:55: App name:app id:2 online
+2018-01-30 16:07:56: App [app] with id [2] and pid [15489], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:56: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:56: App name:app id:2 online
+2018-01-30 16:07:56: App [app] with id [2] and pid [15515], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:56: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:56: App name:app id:2 online
+2018-01-30 16:07:57: App [app] with id [2] and pid [15541], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:57: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:57: App name:app id:2 online
+2018-01-30 16:07:57: App [app] with id [2] and pid [15567], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:58: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:58: App name:app id:2 online
+2018-01-30 16:07:58: App [app] with id [2] and pid [15593], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:58: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:58: App name:app id:2 online
+2018-01-30 16:07:59: App [app] with id [2] and pid [15619], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:59: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:59: App name:app id:2 online
+2018-01-30 16:07:59: App [app] with id [2] and pid [15645], exited with code [1] via signal [SIGINT]
+2018-01-30 16:07:59: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:07:59: App name:app id:2 online
+2018-01-30 16:08:00: App [app] with id [2] and pid [15671], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:00: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:00: App name:app id:2 online
+2018-01-30 16:08:00: App [app] with id [2] and pid [15697], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:00: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:00: App name:app id:2 online
+2018-01-30 16:08:01: App [app] with id [2] and pid [15723], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:01: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:01: App name:app id:2 online
+2018-01-30 16:08:01: App [app] with id [2] and pid [15749], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:01: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:01: App name:app id:2 online
+2018-01-30 16:08:02: App [app] with id [2] and pid [15775], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:02: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:02: App name:app id:2 online
+2018-01-30 16:08:03: App [app] with id [2] and pid [15801], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:03: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:03: App name:app id:2 online
+2018-01-30 16:08:03: App [app] with id [2] and pid [15827], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:03: Starting execution sequence in -fork mode- for app name:app id:2
+2018-01-30 16:08:03: App name:app id:2 online
+2018-01-30 16:08:04: App [app] with id [2] and pid [15853], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:04: Script /home/pi/gladys/gladys-voice/app.js had too many unstable restarts (16). Stopped. "errored"
+2018-01-30 16:08:39: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:39: App name:gladys-voice id:0 online
+2018-01-30 16:08:40: App [gladys-voice] with id [0] and pid [15935], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:40: App name:gladys-voice id:0 online
+2018-01-30 16:08:40: App [gladys-voice] with id [0] and pid [15961], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:40: App name:gladys-voice id:0 online
+2018-01-30 16:08:41: App [gladys-voice] with id [0] and pid [15987], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:41: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:41: App name:gladys-voice id:0 online
+2018-01-30 16:08:41: App [gladys-voice] with id [0] and pid [16013], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:41: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:41: App name:gladys-voice id:0 online
+2018-01-30 16:08:42: App [gladys-voice] with id [0] and pid [16079], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:42: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:42: App name:gladys-voice id:0 online
+2018-01-30 16:08:43: App [gladys-voice] with id [0] and pid [16117], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:43: App name:gladys-voice id:0 online
+2018-01-30 16:08:43: App [gladys-voice] with id [0] and pid [16143], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:43: App name:gladys-voice id:0 online
+2018-01-30 16:08:44: App [gladys-voice] with id [0] and pid [16169], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:44: App name:gladys-voice id:0 online
+2018-01-30 16:08:44: App [gladys-voice] with id [0] and pid [16195], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:44: App name:gladys-voice id:0 online
+2018-01-30 16:08:45: App [gladys-voice] with id [0] and pid [16221], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:45: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:45: App name:gladys-voice id:0 online
+2018-01-30 16:08:45: App [gladys-voice] with id [0] and pid [16247], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:45: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:45: App name:gladys-voice id:0 online
+2018-01-30 16:08:46: App [gladys-voice] with id [0] and pid [16273], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:46: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:46: App name:gladys-voice id:0 online
+2018-01-30 16:08:47: App [gladys-voice] with id [0] and pid [16299], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:47: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:47: App name:gladys-voice id:0 online
+2018-01-30 16:08:47: App [gladys-voice] with id [0] and pid [16325], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:47: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:47: App name:gladys-voice id:0 online
+2018-01-30 16:08:48: App [gladys-voice] with id [0] and pid [16351], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:48: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-30 16:08:48: App name:gladys-voice id:0 online
+2018-01-30 16:08:48: App [gladys-voice] with id [0] and pid [16377], exited with code [1] via signal [SIGINT]
+2018-01-30 16:08:48: Script /home/pi/gladys/gladys-voice/app.js had too many unstable restarts (16). Stopped. "errored"
+2018-01-31 11:25:36: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:36: App name:gladys-voice id:0 online
+2018-01-31 11:25:37: App [gladys-voice] with id [0] and pid [8875], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:37: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:37: App name:gladys-voice id:0 online
+2018-01-31 11:25:38: App [gladys-voice] with id [0] and pid [8901], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:38: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:38: App name:gladys-voice id:0 online
+2018-01-31 11:25:38: App [gladys-voice] with id [0] and pid [8927], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:38: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:38: App name:gladys-voice id:0 online
+2018-01-31 11:25:39: App [gladys-voice] with id [0] and pid [8953], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:39: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:39: App name:gladys-voice id:0 online
+2018-01-31 11:25:39: App [gladys-voice] with id [0] and pid [8979], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:39: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:39: App name:gladys-voice id:0 online
+2018-01-31 11:25:40: App [gladys-voice] with id [0] and pid [9005], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:40: App name:gladys-voice id:0 online
+2018-01-31 11:25:40: App [gladys-voice] with id [0] and pid [9031], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:40: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:40: App name:gladys-voice id:0 online
+2018-01-31 11:25:41: App [gladys-voice] with id [0] and pid [9057], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:41: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:41: App name:gladys-voice id:0 online
+2018-01-31 11:25:42: App [gladys-voice] with id [0] and pid [9083], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:42: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:42: App name:gladys-voice id:0 online
+2018-01-31 11:25:42: App [gladys-voice] with id [0] and pid [9109], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:42: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:42: App name:gladys-voice id:0 online
+2018-01-31 11:25:43: App [gladys-voice] with id [0] and pid [9135], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:43: App name:gladys-voice id:0 online
+2018-01-31 11:25:43: App [gladys-voice] with id [0] and pid [9161], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:43: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:43: App name:gladys-voice id:0 online
+2018-01-31 11:25:44: App [gladys-voice] with id [0] and pid [9187], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:44: App name:gladys-voice id:0 online
+2018-01-31 11:25:44: App [gladys-voice] with id [0] and pid [9213], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:44: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:44: App name:gladys-voice id:0 online
+2018-01-31 11:25:45: App [gladys-voice] with id [0] and pid [9239], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:45: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:25:45: App name:gladys-voice id:0 online
+2018-01-31 11:25:46: App [gladys-voice] with id [0] and pid [9270], exited with code [1] via signal [SIGINT]
+2018-01-31 11:25:46: Script /home/pi/gladys/gladys-voice/app.js had too many unstable restarts (16). Stopped. "errored"
+2018-01-31 11:31:33: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:31:33: App name:gladys-voice id:0 online
+2018-01-31 11:31:51: App [gladys-voice] with id [0] and pid [9923], exited with code [0] via signal [SIGINT]
+2018-01-31 11:31:51: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:31:51: App name:gladys-voice id:0 online
+2018-01-31 11:32:06: App [gladys-voice] with id [0] and pid [10024], exited with code [0] via signal [SIGINT]
+2018-01-31 11:32:06: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:32:06: App name:gladys-voice id:0 online
+2018-01-31 11:32:22: App [gladys-voice] with id [0] and pid [10075], exited with code [0] via signal [SIGINT]
+2018-01-31 11:32:22: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:32:22: App name:gladys-voice id:0 online
+2018-01-31 11:32:37: App [gladys-voice] with id [0] and pid [10166], exited with code [0] via signal [SIGINT]
+2018-01-31 11:32:37: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:32:37: App name:gladys-voice id:0 online
+2018-01-31 11:32:42: Stopping app:gladys-voice id:0
+2018-01-31 11:32:42: App [gladys-voice] with id [0] and pid [10207], exited with code [0] via signal [SIGINT]
+2018-01-31 11:32:42: pid=10207 msg=process killed
+2018-01-31 11:38:42: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:38:42: App name:gladys-voice id:0 online
+2018-01-31 11:38:58: App [gladys-voice] with id [0] and pid [10900], exited with code [0] via signal [SIGINT]
+2018-01-31 11:38:58: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:38:59: App name:gladys-voice id:0 online
+2018-01-31 11:39:14: App [gladys-voice] with id [0] and pid [11001], exited with code [0] via signal [SIGINT]
+2018-01-31 11:39:14: Starting execution sequence in -fork mode- for app name:gladys-voice id:0
+2018-01-31 11:39:14: App name:gladys-voice id:0 online
+2018-01-31 11:39:25: Stopping app:gladys-voice id:0
+2018-01-31 11:39:25: App [gladys-voice] with id [0] and pid [11042], exited with code [0] via signal [SIGINT]
+2018-01-31 11:39:25: pid=11042 msg=process killed
+2018-01-31 11:48:38: Stopping app:app id:1
+2018-01-31 11:48:38: App [app] with id [1] and pid [15384], exited with code [0] via signal [SIGINT]
+2018-01-31 11:48:38: pid=15384 msg=process killed
+2018-01-31 11:51:18: pm2 has been killed by signal, dumping process list before exit...
+2018-01-31 11:51:18: Deleting process 0
+2018-01-31 11:51:18: Deleting process 1
+2018-01-31 11:51:18: Deleting process 2
+2018-01-31 11:51:18: Stopping app:app id:2
+2018-01-31 11:51:18: app=app id=2 does not have a pid
+2018-01-31 11:51:18: [PM2] Exited peacefully

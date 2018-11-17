@@ -1,0 +1,151 @@
+2018/11/17 14:00:13.430 14800 1898086400 GX0   Logger started.
+2018/11/17 14:00:13.515 14800 1898086400 GX0!! Delete old dumps (.dmp): core file path "" not valid (system:2), Errorcode=2
+2018/11/17 14:00:13.515 14800 1898086400 GX0   Found 0 Minidump files ...
+2018/11/17 14:00:13.549 14800 1898086400 GX0   systemd: logind service available
+2018/11/17 14:00:13.558 14800 1898086400 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c2', canGraphical=1, canTTY=1, canMultiSession=1]
+2018/11/17 14:00:13.562 14800 1898086400 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c1 user=pi state=user active=0 reliable=1 infoId=1591159457] [path=/org/freedesktop/login1/session/c1 TTY=/dev/tty1 seat=seat0 display= vtnr=1 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=1(1542456252779999) active=0 type=tty class=user state=online timestamp=1542456262424266 service=login defaultCG= leader=588 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/11/17 14:00:13.567 14800 1898086400 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c2 user=pi state=user active=1 reliable=1 infoId=3353246491] [path=/org/freedesktop/login1/session/c2 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1542456263195349 service=lightdm-autologin defaultCG= leader=1112 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/11/17 14:00:13.573 14800 1898086400 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c4 user=pi state=user active=1 reliable=1 infoId=784195118] [path=/org/freedesktop/login1/session/c4 TTY= seat= display= vtnr=4294967295 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=active timestamp=1542458641624189 service=sshd defaultCG= leader=2029 audit=0 remote=1 rHost=laptop-1m3osvgq rUser= killProc=0]
+2018/11/17 14:00:13.595 14800 1898086400 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2018/11/17 14:00:13.607 14800 1898086400 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2018/11/17 14:00:13.726 14800 1898086400 GX0   SysSessionInfoManager: own session cache set to '3353246491'
+2018/11/17 14:00:13.792 14800 1898086400 GX0   GALLIUM_DRIVER set to "softpipe"
+2018/11/17 14:00:13.904 14800 1898086400 GX0   Running on Qt 5.3.2
+2018/11/17 14:00:16.792 14800 1898086400 GX0   GuiMain SM fallback: symbol not found
+2018/11/17 14:00:16.804 14800 1898086400 GX0   Initialised XRandR extension 1.4 (base=89 error=147)
+2018/11/17 14:00:16.806 14800 1898086400 GX0   MonitorInfo: [XRandR 1.2] CRTC default 1920x1080@0Hz [0, 0, 1920, 1080] - 1
+2018/11/17 14:00:16.806 14800 1898086400 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/11/17 14:00:16.813 14800 1898086400 GX0   MonitorInfo: [XRandR 1.2] CRTC default 1920x1080@0Hz [0, 0, 1920, 1080] - 1
+2018/11/17 14:00:16.813 14800 1898086400 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/11/17 14:00:17.288 14800 1898086400 GX0   Loaded language 'en', using locale 'en-GB'
+2018/11/17 14:00:17.313 14800 1898086400 GX0   InterProcessBase::SecureNetwork created
+2018/11/17 14:00:17.350 14800 1898086400 GX0   SetUserLoggedIn(0x31bfe90): changed to: 1
+2018/11/17 14:00:17.352 14800 1712499264 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2018/11/17 14:00:17.353 14800 1712499264 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2018/11/17 14:00:17.353 14800 1840245312 GX0   Local TCP connection established
+2018/11/17 14:00:17.458 14800 1867508288 GX0   SystemID m=1 s=1 2e7311d7868244978f314762db251c8e
+2018/11/17 14:00:17.469 14800 1867508288 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2018/11/17 14:00:17.469 14800 1867508288 GX0   Received Control_InitIPC_Response processtype=1
+2018/11/17 14:00:17.469 14800 1867508288 GX0   Received Control_InitIPC_Response runningProcesses=3
+2018/11/17 14:00:17.470 14800 1867508288 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+
+
+
+Start:              2018/11/17 14:00:17.480 (UTC+1:00)
+Version:            13.2.13582 H
+ID:                 0
+Loglevel:           Info (100)
+License:            10000
+Server:             master5.teamviewer.com
+IC:                 -1418544400
+CPU:                ARMv7 Processor rev 4 (v7l)
+OS:                 Lx Raspbian 8 jessie (armv7l)
+IP:                 192.168.1.28
+Proxy-Settings:     Type=0 IP= User=
+
+2018/11/17 14:00:17.512 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:17.513 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:17.521 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:19.277 14800 1898086400 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2018/11/17 14:00:19.277 14800 1867508288 GX0   ChatManager::ChatManager: created
+2018/11/17 14:00:19.277 14800 1867508288 GX0   ChatManager::Factory: ChatManager created
+2018/11/17 14:00:19.278 14800 1848633920 GX0   SetUserLoggedIn(0x31bfe90): changed to: 1
+2018/11/17 14:00:19.279 14800 1848633920 GX0   SetSessionLocked: 0x31bfe90 : Unlocked
+2018/11/17 14:00:19.281 14800 1898086400 GX0   Initialised XFixes extension (base=87 error=140)
+2018/11/17 14:00:19.282 14800 1867508288 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2018/11/17 14:00:19.282 14800 1867508288 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2018/11/17 14:00:19.295 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:19.297 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:19.297 14800 1898086400 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:23.313 14800 1898086400 GX0   DBusStatusNotifier: active [0/1] (4)
+2018/11/17 14:00:23.808 14800 1848633920 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1113909625", TSUserID "0", ServerID "0"
+2018/11/17 14:00:23.809 14800 1867508288 GX0   IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to offline
+2018/11/17 14:00:23.809 14800 1867508288 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=1113909625 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:23.996 14800 1848633920 GX0   IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to online
+2018/11/17 14:00:23.996 14800 1859119680 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1113909625", TSUserID "1113909625", ServerID "1113909625"
+2018/11/17 14:00:24.000 14800 1848633920 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: a82f2def-d4cc-4984-ac60-a6fd09e74edd)
+2018/11/17 14:00:24.000 14800 1848633920 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2018/11/17 14:00:24.000 14800 1867508288 GX0   Account::UpdateState: KA = 1, active = 1
+2018/11/17 14:00:24.001 14800 1898086400 GX0   Account::SetLoginState: new state: 2
+2018/11/17 14:00:24.001 14800 1898086400 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2018/11/17 14:00:24.004 14800 1848633920 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: dcbdf7fe-9d98-470c-9571-e615aba1aa04)
+2018/11/17 14:00:24.005 14800 1848633920 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=1113909625 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 14:00:26.446 14800 1867508288 GX0   IpcRouterClock: received router time: 20181117T130024.012628
+2018/11/17 14:00:30.695 14800 1848633920 GX0   Path does not exist : /sys/bus/pci/devices/ 
+2018/11/17 17:11:49.615 14800 1848633920 GX0   Received Control_TerminateProcess
+2018/11/17 17:11:49.643 14800 1848633920 GX0   IncomingChatCommandRegistration::IsTeamViewerOnlineObserver: TeamViewer-Onlinestate changed to offline
+2018/11/17 17:11:49.644 14800 1848633920 GX0   IncomingChatCommandRegistration::UnregisterIncomingCommands: Unregistering incoming commands
+2018/11/17 17:11:49.644 14800 1848633920 GX0   InterProcessBase::SecureNetworkCallbackHandle destroyed (RegistrationID: a82f2def-d4cc-4984-ac60-a6fd09e74edd)
+2018/11/17 17:11:49.645 14800 1867508288 GX0   Account::UpdateState: KA = 0, active = 1
+2018/11/17 17:11:49.646 14800 1848633920 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=1113909625 ka=0 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 17:11:49.660 14800 1898086400 GX0   Account::SetLoginState: new state: 0
+2018/11/17 17:11:49.661 14800 1898086400 GX0   ManagerHolderStateMachine: Switching from ReadyForLogin to NotReady
+2018/11/17 17:11:49.661 14800 1840245312 GX0   ChatManager::ClearNonAccountChat
+2018/11/17 17:12:11.147  1230 1898524672 GX0   Logger started.
+2018/11/17 17:12:11.269  1230 1898524672 GX0   Found 0 Minidump files ...
+2018/11/17 17:12:11.274  1230 1898524672 GX0   systemd: logind service available
+2018/11/17 17:12:11.278  1230 1898524672 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='c2', canGraphical=1, canTTY=1, canMultiSession=1]
+2018/11/17 17:12:11.280  1230 1898524672 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c1 user=pi state=user active=0 reliable=1 infoId=1591159457] [path=/org/freedesktop/login1/session/c1 TTY=/dev/tty1 seat=seat0 display= vtnr=1 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=0(1542471117689999) active=0 type=tty class=user state=online timestamp=1542471126335997 service=login defaultCG= leader=572 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/11/17 17:12:11.283  1230 1898524672 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c2 user=pi state=user active=1 reliable=1 infoId=3353246491] [path=/org/freedesktop/login1/session/c2 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1542471127115049 service=lightdm-autologin defaultCG= leader=1149 audit=0 remote=0 rHost= rUser= killProc=0]
+2018/11/17 17:12:11.295  1230 1898524672 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2018/11/17 17:12:11.306  1230 1898524672 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2018/11/17 17:12:11.358  1230 1898524672 GX0   SysSessionInfoManager: own session cache set to '3353246491'
+2018/11/17 17:12:11.376  1230 1898524672 GX0   GALLIUM_DRIVER set to "softpipe"
+2018/11/17 17:12:11.472  1230 1898524672 GX0   Running on Qt 5.3.2
+2018/11/17 17:12:13.787  1230 1898524672 GX0   GuiMain SM fallback: symbol not found
+2018/11/17 17:12:13.796  1230 1898524672 GX0   Initialised XRandR extension 1.4 (base=89 error=147)
+2018/11/17 17:12:13.797  1230 1898524672 GX0   MonitorInfo: [XRandR 1.2] CRTC default 1920x1080@0Hz [0, 0, 1920, 1080] - 1
+2018/11/17 17:12:13.797  1230 1898524672 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/11/17 17:12:13.812  1230 1898524672 GX0   MonitorInfo: [XRandR 1.2] CRTC default 1920x1080@0Hz [0, 0, 1920, 1080] - 1
+2018/11/17 17:12:13.812  1230 1898524672 GX0   Virtual Desktop [0, 0, 1920, 1080]
+2018/11/17 17:12:14.158  1230 1898524672 GX0!  DBusServices: could not register application. Connected: 0
+2018/11/17 17:12:14.388  1230 1898524672 GX0   Loaded language 'en', using locale 'en-GB'
+2018/11/17 17:12:14.443  1230 1898524672 GX0   InterProcessBase::SecureNetwork created
+2018/11/17 17:12:14.518  1230 1898524672 GX0   SetUserLoggedIn(0x3069d10): changed to: 1
+2018/11/17 17:12:14.521  1230 1712966208 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2018/11/17 17:12:14.521  1230 1712966208 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2018/11/17 17:12:14.522  1230 1867508288 GX0   Local TCP connection established
+2018/11/17 17:12:14.635  1230 1840245312 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2018/11/17 17:12:14.636  1230 1848633920 GX0   Received Control_InitIPC_Response processtype=1
+2018/11/17 17:12:14.637  1230 1848633920 GX0   Received Control_InitIPC_Response runningProcesses=3
+2018/11/17 17:12:14.637  1230 1848633920 GX0   Control_InitIPC_Response: all processes 3 completely initialized
+
+
+
+Start:              2018/11/17 17:12:14.650 (UTC+1:00)
+Version:            13.2.13582 H
+ID:                 0
+Loglevel:           Info (100)
+License:            10000
+Server:             master13.teamviewer.com
+IC:                 -1418544400
+CPU:                ARMv7 Processor rev 4 (v7l)
+OS:                 Lx Raspbian 8 jessie (armv7l)
+IP:                 192.168.1.28
+Proxy-Settings:     Type=0 IP= User=
+
+2018/11/17 17:12:14.675  1230 1898524672 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 17:12:14.675  1230 1898524672 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 17:12:14.685  1230 1898524672 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=0 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 17:12:14.688  1230 1859119680 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 98cb49b5-68fa-4eee-883e-d55d86766755)
+2018/11/17 17:12:14.688  1230 1859119680 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=0 allowIncoming=1 id=1113909625 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=0
+2018/11/17 17:12:14.688  1230 1859119680 GX0   Account::UpdateState: KA = 1, active = 1
+2018/11/17 17:12:16.677  1230 1898524672 GX0!  DBusServices: RegisterApplicationObject failed.
+2018/11/17 17:12:16.678  1230 1848633920 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "1113909625", TSUserID "1113909625", ServerID "1113909625"
+2018/11/17 17:12:16.678  1230 1898524672 GX0   ManagerHolderStateMachine: Switching from None to NotReady
+2018/11/17 17:12:16.679  1230 1867508288 GX0   ChatManager::ChatManager: created
+2018/11/17 17:12:16.680  1230 1867508288 GX0   ChatManager::Factory: ChatManager created
+2018/11/17 17:12:16.680  1230 1840245312 GX0   SetUserLoggedIn(0x3069d10): changed to: 1
+2018/11/17 17:12:16.680  1230 1840245312 GX0   SetSessionLocked: 0x3069d10 : Unlocked
+2018/11/17 17:12:16.680  1230 1840245312 GX0   IpcRouterClock: received router time: 20181117T161243.810271
+2018/11/17 17:12:16.682  1230 1898524672 GX0   Initialised XFixes extension (base=87 error=140)
+2018/11/17 17:12:16.686  1230 1867508288 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2018/11/17 17:12:16.687  1230 1867508288 GX0   IncomingChatCommandRegistration::Start: registering for ready state properties
+2018/11/17 17:12:16.702  1230 1898524672 GX0!  DBusStatusNotifier: could not register service. Connected: 0
+2018/11/17 17:12:16.703  1230 1898524672 GX0   Account::SetLoginState: new state: 2
+2018/11/17 17:12:16.703  1230 1898524672 GX0   ManagerHolderStateMachine: Switching from NotReady to ReadyForLogin
+2018/11/17 17:12:16.709  1230 1867508288 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 0bebaa56-6c9e-4aba-b3f0-f5f38012c1aa)
+2018/11/17 17:12:16.709  1230 1867508288 GX0   IncomingChatCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2018/11/17 17:12:46.633  1230 1859119680 GX0   IpcRouterClock: received router time: 20181117T161243.159271
+2018/11/17 17:12:49.242  1230 1840245312 GX0   Path does not exist : /sys/bus/pci/devices/ 
+2018/11/17 17:13:48.518  1230 1875896896 GX0   LogindSessionInfo: New session LogindSessionInfo [id=c4 user=pi state=user active=1 reliable=1 infoId=784195118] [path=/org/freedesktop/login1/session/c4 TTY= seat= display= vtnr=4294967295 owner=[SysUser: pi [uid=1000, gid=1000 home=/home/pi gecos=,,, shell=/bin/bash]] idle=0(0) active=1 type=tty class=user state=opening timestamp=1542471228510399 service=sshd defaultCG= leader=1601 audit=0 remote=1 rHost=laptop-1m3osvgq rUser= killProc=0]
